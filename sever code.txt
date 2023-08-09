@@ -1,7 +1,7 @@
 import requests
 
 banks = {
-    'SBI': 'https://www.onlinesbi.com',
+    'SBI': 'https://www.onlinesbi.com',//here I have used SBI,AXIS,hdfc a examples you can refer the bank's documentation and update the code 
     'Axis Bank': 'https://www.axisbank.com',
     'HDFC Bank': 'https://www.hdfcbank.com'
 }
