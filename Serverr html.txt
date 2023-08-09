@@ -4,7 +4,7 @@
     <title>Bank Server Status</title>
 </head>
 <body>
-    <table id="statusTable">
+    <table id="statusTable">// this is a basic implementation you can also modify it to include packet loss and time of last request etc.
         <tr>
             <th>Bank</th>
             <th>Status</th>
